@@ -4,7 +4,7 @@
    color:rgb(224, 144, 200);
    width: 500px;
    height: 90px;
-   font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-family: Georgia, 'Times New Roman', Times, serif;
    text-align: center;
    margin-left: auto;
    margin-right:auto;
@@ -40,6 +40,30 @@ background-color: lightpink;
 
 body {
 background-color: rgb(212, 193, 193);
+}
+
+a:hover{
+    color: aliceblue;
+}
+
+/* unvisited link */
+a:link {
+    color: rgb(224, 144, 200);
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(224, 144, 200);
+    text-decoration: none;
+  }
+
+  a:active {
+      color:aliceblue;
+      text-decoration: none;
+  }
+#contact_links a:link {    
+    color:aqua                  /* Not working - try with css specificity*/
 }
 
 #footer {
