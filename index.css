@@ -26,7 +26,13 @@
     margin-right: auto;
 }
 
+.wrapper{
+margin: auto;
+width: 1000px;
+}
 body {
 background-color: rgb(230, 223, 223);
-
 }
+
+
+
