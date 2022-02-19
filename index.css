@@ -1,21 +1,21 @@
 #header {     /* JANHAVI SHINDE */      /* */
    font-size: 12x;
-   background-color: rgb(100, 99, 100);
+   /*background-color: rgb(139, 135, 139); */
    color:rgb(224, 144, 200);
    width: 500px;
-   height: 40px;
+   height: 90px;
    font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    text-align: center;
    margin-left: auto;
    margin-right:auto;
-   
+   border:5px; border-style: dotted;
    
 }
 
-#navigation {
+.navigation {
     font-size: 24x;
     width: 400px;
-    background-color: #646364;
+    background-color: #d6cad6; 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     padding-left: 30x;
@@ -24,14 +24,16 @@
     padding-top: 1px;
     margin-left: auto;
     margin-right: auto;
+      
 }
 
 .wrapper{
 margin: auto;
 width: 1000px;
+background-color: lightpink;
 }
 body {
-background-color: rgb(230, 223, 223);
+background-color: rgb(212, 193, 193);
 }
 
 #footer {
