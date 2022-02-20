@@ -46,7 +46,10 @@ padding-top: 20px;
 
 body {
 background-color: lightpink;
-background-image: url(img/ABA1.jpg) 
+background: url(img/ABA1.jpg) center no-repeat;
+background-size: cover; 
+background-attachment: fixed;
+
 } 
 
 a:hover{
