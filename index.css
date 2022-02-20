@@ -70,6 +70,16 @@ a:link {
       color:aliceblue;
       text-decoration: none;
   }
+
+#memoji {
+    width: 150px;
+    height: 150px;
+    margin-left: auto;
+    margin-right:auto;
+    display: block;
+}
+
+
 #contact_links a:link {    
     color:aqua                  /* Not working - try with css specificity*/
 }
@@ -98,6 +108,37 @@ a:link {
 }
 #medium {
     width:100px;
+}
+
+#Projects_div1 {
+    width: 200px;
+    height: 200px;
+    background-color:crimson;
+    text-align: center;
+    font-style: italic;
+    margin: auto;
+}
+#Projects_div2 {
+    width: 200px;
+    height: 200px;
+    background-color:crimson;
+    text-align: center;
+    font-style: italic;
+    margin: auto;
+}#Projects_div3 {
+    width: 200px;
+    height: 200px;
+    background-color:crimson;
+    text-align: center;
+    font-style: italic;
+    margin: auto;
+}#Projects_div4 {
+    width: 200px;
+    height: 200px;
+    background-color:crimson;
+    text-align: center;
+    font-style: italic;
+    margin: auto;
 }
 
 
