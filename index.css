@@ -112,22 +112,31 @@ a:link {
     text-align: center;
     font-style: italic;
     margin: auto;
+    margin-bottom: 1cm;
 }
+
 #Projects_div2 {
+    width: 300px;
+    height: 200px;
+    background-color:crimson;
+    text-align: center;
+    font-style: italic;
+    margin: auto;
+    margin-bottom: 1cm;
+    
+}
+
+#Projects_div3 {
     width: 200px;
     height: 200px;
     background-color:crimson;
     text-align: center;
     font-style: italic;
     margin: auto;
-}#Projects_div3 {
-    width: 200px;
-    height: 200px;
-    background-color:crimson;
-    text-align: center;
-    font-style: italic;
-    margin: auto;
-}#Projects_div4 {
+    margin-bottom: 1cm;
+}
+
+#Projects_div4 {
     width: 200px;
     height: 200px;
     background-color:crimson;
