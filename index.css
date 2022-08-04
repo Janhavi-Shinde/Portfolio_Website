@@ -1,7 +1,8 @@
 .header {     /* JANHAVI SHINDE */      /* */
    font-size: 12x;
    /*background-color: rgb(139, 135, 139); */
-   color:rgb(224, 144, 200);
+   color:rgb(143, 158, 187);
+   
    width: 500px;
    height: 90px;
    font-family: Georgia, 'Times New Roman', Times, serif;
@@ -55,13 +56,13 @@ a:hover{
 
 /* unvisited link */
 a:link {
-    color: rgb(224, 144, 200);
+    color: rgb(143, 158, 187);
     text-decoration: none;
   }
   
   /* visited link */
   a:visited {
-    color: rgb(224, 144, 200);
+    color: rgb(143, 158, 187);
     text-decoration: none;
   }
 
@@ -104,49 +105,103 @@ a:link {
 #medium {
     width:100px;
 }
+
+
                                      /* Project Divs */
 #Projects_div1 {
-    width: 200px;
+    width: 300px;
     height: 200px;
-    background-color:crimson;
+    background-color:rgb(125, 117, 164);
     text-align: center;
     font-style: italic;
     margin: auto;
     margin-bottom: 1cm;
+    padding-right: 20px;
+    padding-left: 20px;
 }
 
 #Projects_div2 {
-    width: 300px;
+    width: 600px;
     height: 200px;
-    background-color:crimson;
+    background-color:rgb(125, 117, 164);
     text-align: center;
     font-style: italic;
     margin: auto;
     margin-bottom: 1cm;
+    padding-right: 20px;
+    padding-left: 20px;
     
 }
 
 #Projects_div3 {
-    width: 200px;
+    width: 500px;
     height: 200px;
-    background-color:crimson;
+    background-color:rgb(125, 117, 164);
     text-align: center;
     font-style: italic;
     margin: auto;
     margin-bottom: 1cm;
+    padding-right: 20px;
+    padding-left: 20px;
 }
 
 #Projects_div4 {
-    width: 200px;
+    width: 400px;
     height: 200px;
-    background-color:crimson;
+    background-color:rgb(125, 117, 164);
     text-align: center;
     font-style: italic;
     margin: auto;
+    padding-right: 20px;
+    padding-left: 20px;
 }
 
 
+#Projects_div1 > a {
+    color: rgb(252, 237, 240);
+    font-size: 25px;
+    
+}
+#Projects_div1 > p {
+    font-style:italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(252, 237, 240)
+    
+}
 
+#Projects_div2 > p {
+    font-style:italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(252, 237, 240)
+    
+}
 
+#Projects_div2 > a {
+    color: rgb(252, 237, 240);
+    font-size: 25px;
+
+}
+
+#Projects_div3 > a {
+    color: rgb(252, 237, 240);
+    font-size: 25px;
+}
+#Projects_div3 > p {
+    font-style:italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(252, 237, 240);
+    
+}
+#Projects_div4 > h2 {
+    color: rgb(252, 237, 240);
+    font-size: 25px;
+}
+
+#Projects_div4 > p {
+    font-style:italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(252, 237, 240)
+
+}
 
 
